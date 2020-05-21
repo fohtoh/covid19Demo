@@ -17,8 +17,6 @@ export function CountrySelector() {
         }}
       >
         {countries.countries.map((country) => {
-          // return country;
-          // console.log(country);
           return (
             <option key={country.iso2} value={country.iso2}>
               {country.name}

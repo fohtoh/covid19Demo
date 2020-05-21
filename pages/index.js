@@ -6,7 +6,6 @@ export default function IndexPage() {
     <div>
       <Stats url="https://covid19.mathdro.id/api" />
       <CountrySelector />
-      {/* <Stats url="https://covid19.mathdro.id/api/countries/USA" /> */}
     </div>
   );
 }
