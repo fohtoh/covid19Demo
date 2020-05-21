@@ -1,3 +1,7 @@
+## INFO
+
+Demo from @wesbos video. https://www.youtube.com/watch?v=B85s0cjlitE&t=576s
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
