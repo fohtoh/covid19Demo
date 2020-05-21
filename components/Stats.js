@@ -1,6 +1,8 @@
-import { useStats } from "../pages/useStats";
+import { useStats } from "../hooks/useStats";
+
 export function Stats({ url }) {
   const stats = useStats(url);
+
   if (!stats) return <p>Loading...</p>;
   return (
     <div>

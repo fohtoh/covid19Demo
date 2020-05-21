@@ -1,4 +1,4 @@
-import { useStats } from "../pages/useStats";
+import { useStats } from "../hooks/useStats";
 import { useState } from "react";
 import { Stats } from "./Stats";
 
